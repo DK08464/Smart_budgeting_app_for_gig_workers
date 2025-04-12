@@ -134,6 +134,15 @@
     {
       "input": "My child wants a cycle worth ₹10,000 and I earn ₹9,000/month. How can I save for it in 5 months?",
       "output": "You'll need to save ₹2,000/month. Try reducing weekend outings (₹500), avoid impulse spending (₹500), cook instead of ordering food (₹500), and keep track of daily spending. Use our 'Family Goals' feature to manage such small but important dreams."
+    },{
+      "input": "how many months will it take",
+      "output": "it will take 6 months"
+    },{
+      "input": "how many months ",
+      "output": "it will take 4 months"
+    },{
+      "input": "how many days will it take",
+      "output": "it will take 96 days"
     }
   ]
 } 
